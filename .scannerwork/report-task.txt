@@ -1,0 +1,6 @@
+projectKey=QC:QC_antlr-3.4
+serverUrl=https://sonar.rd.tut.fi/sonar75
+serverVersion=7.5.0.20543
+dashboardUrl=https://sonar.rd.tut.fi/sonar75/dashboard?id=QC%3AQC_antlr-3.4
+ceTaskId=AWlUc01hnbimOWNEd99o
+ceTaskUrl=https://sonar.rd.tut.fi/sonar75/api/ce/task?id=AWlUc01hnbimOWNEd99o
